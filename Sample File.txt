@@ -1,3 +1,6 @@
 Hello
 try cgain
 third
+
+fetch + merge = comes into local workspace
+pull =  comes into local workspace
